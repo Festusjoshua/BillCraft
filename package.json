@@ -1,0 +1,19 @@
+{
+  "name": "billcraft",
+  "version": "1.0.0",
+  "description": "BillCraft — Invoicing, made simple. Modern responsive fintech SaaS invoice generator.",
+  "type": "module",
+  "scripts": {
+    "build": "node build-bundle.cjs",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "invoice",
+    "invoice-generator",
+    "fintech",
+    "saas",
+    "aeonik"
+  ],
+  "author": "BillCraft Team",
+  "license": "MIT"
+}
